@@ -27,11 +27,11 @@ This project follows the official CRYENGINE C++ tutorials:
 
 ## 🧠 Features
 
-- Basical Movement
-- Mouse look
-- Sprinting (`Shift`)
-- Jumping (`Space`)
-- Crouching (`C`)
+- Basical Movement (`WASD` / `Left Stick`)
+- Mouse look (`Mouse` / `Right Stick`)
+- Sprinting (`Shift` / `Left Stick Hold`)
+- Jumping (`Space` / `🅐`)
+- Crouching (`C` / `🅑`)
 
 ---
 
