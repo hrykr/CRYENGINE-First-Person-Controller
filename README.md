@@ -19,12 +19,12 @@ This project follows the official CRYENGINE C++ tutorials:
 1. Clone or download this repository.
 2. Place `Player.cpp` and `Player.h` into your project's `Code/Component/` folder.
 3. Place `GamePlugin.cpp` and `GamePlugin.h` into your project's `Code/` folder.
-4. Right click on `Game.cryproject` -> `Generate solution` to create solution.
-5. Build solution via Visual Studio.
-6. In CRYENGINE Sandbox:
+4. Right click on `Game.cryproject` -> **Generate solution** to create solution.
+5. Build solution via Visual Studio, to launch via VS set *`Editor`* as startup project.
+7. In CRYENGINE Sandbox:
    - Create an entity.
    - Add the **CPlayerComponent** to it.
-   - Setup values.
+   - Setup values and set Air Ratio Controler (recommended 0.1)
 
 ---
 
