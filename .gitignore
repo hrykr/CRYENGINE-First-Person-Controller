@@ -1,0 +1,30 @@
+# Ignore compiled binaries
+/Bin32/
+/Bin64/
+/bin/
+/bin_tmp/
+/win_x64/
+/win_x86/
+
+# Ignore build intermediates
+/cache/
+/log/
+/Tools/
+/solutions/
+/CMakeLists.txt.user
+/build/
+/user/
+*.sdf
+*.opensdf
+*.vcxproj*
+*.sln
+
+# Ignore Crytek launcher temp files
+*.cryuser
+*.cryasset
+*.cryautosave
+
+# Ignore local config
+*.cryproject.user
+*.cryengine
+*.cryproject.engine.json
