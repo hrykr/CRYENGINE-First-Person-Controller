@@ -9,6 +9,7 @@
 # Ignore build intermediates
 /cache/
 /log/
+/logbackups/
 /Tools/
 /solutions/
 /CMakeLists.txt.user
