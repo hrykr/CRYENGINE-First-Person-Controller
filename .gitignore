@@ -20,7 +20,6 @@
 
 # Ignore Crytek launcher temp files
 *.cryuser
-*.cryasset
 *.cryautosave
 
 # Ignore local config
