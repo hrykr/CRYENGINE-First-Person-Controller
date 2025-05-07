@@ -1,4 +1,5 @@
 # CRYENGINE First Person Controller (C++)
+### Keyboard + Mouse / Gamepad
 
 A simple first-person controller built using C++ in CRYENGINE, based on the official tutorial series by Crytek.
 
@@ -17,8 +18,10 @@ This project follows the official CRYENGINE C++ tutorials:
 
 1. Clone or download this repository.
 2. Place `Player.cpp` and `Player.h` into your project's `Code/Component/` folder.
-4. Build the project via Visual Studio.
-5. In CRYENGINE Sandbox:
+3. Place `GamePlugin.cpp` and `GamePlugin.h` into your project's `Code/` folder.
+4. Right click on `Game.cryproject` -> `Generate solution` to create solution.
+5. Build solution via Visual Studio.
+6. In CRYENGINE Sandbox:
    - Create an entity.
    - Add the **CPlayerComponent** to it.
    - Setup values.
@@ -38,6 +41,6 @@ This project follows the official CRYENGINE C++ tutorials:
 ## 🔧 Requirements
 
 - CRYENGINE 5.7 LTS (or compatible version)
-- Visual Studio 2019 or 2022
+- Visual Studio 2017 or higher
 - Windows 10 or later
 - Basic C++ knowledge
