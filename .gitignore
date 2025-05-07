@@ -1,9 +1,7 @@
 # Ignore compiled binaries
 /Bin32/
 /Bin64/
-/bin/
 /bin_tmp/
-/win_x64/
 /win_x86/
 
 # Ignore build intermediates
