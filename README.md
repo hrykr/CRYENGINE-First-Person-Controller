@@ -17,7 +17,7 @@ This project follows the official CRYENGINE C++ tutorials:
 ## 📁 Setup Instructions
 
 1. Clone or download this repository.
-2. Open CEYENGINE Sandbox and load `example` level.
+2. Open CRYENGINE Sandbox and load `example` level.
 
 ---
 
